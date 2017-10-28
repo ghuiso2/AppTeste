@@ -1,0 +1,61 @@
+/* 
+    Created on : 26/10/2017, 15:27:07
+    Author     : Thiago Carvalho
+*/
+
+.titulo-pg{
+    font-size: 2em;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.cabecalho{
+    width: 100%;
+    height: 100px;
+    //background-color: #060606;
+    line-height:90px;
+    font-size:50px;
+    //color: #FFF;
+    float:left;
+    text-align:center;
+}
+
+.cadastrarAposta{
+    width: 50%;
+    height: 340px;
+    //background-color: #a58181;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.ultimosSorteios{
+    width: 50%;
+    height: 340px;
+    //background-color: #b33232;
+    float: right;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.resultados{
+    width: 100%;
+    height: 390px;
+    //background-color: #e33232;
+    float: right;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.btn-add{
+    position: relative;
+    float:right;
+    bottom: 60px;
+    right: 40px;
+}
+
+.alertErros{
+   position: absolute !important;
+   left: 170px;
+   top: 110px;
+}

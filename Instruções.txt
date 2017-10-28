@@ -1,0 +1,13 @@
+#####################################
+#Instruções para execução do sistema#
+#####################################
+
+$$ Informações do ambiente de desenvolvimento no arquivo:
+	"InformacoesAmbienteDesenvolvimento.pdf" localizado na pasta raiz do projeto
+
+$$ Versão do framework laravel => 5.3
+
+$$ Deve existir os arquivos "Apostas.txt" e "Sorteios.txt" dentro do caminho "app/Models"
+
+$$ Ajustar o caminho dos arquivos "Apostas.txt" e "Sorteios.txt" nas suas respectivas variáveis dentro da Model "Aposta" localizada no caminho "app/Models/Aposta.php"
+
